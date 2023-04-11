@@ -38,7 +38,7 @@
 
 # 📖 [cart Items] <a name="about-project"></a>
 
-**[Cart item]** cart item is just a hands on exercise to practice how to include redux in react apps
+**[Cart items]** cart item is just a hands on exercise to practice how to include redux in react apps
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
