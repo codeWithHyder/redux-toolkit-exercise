@@ -1,9 +1,9 @@
-# Book Store
+# Cart Items
 
 <a name="readme-top"></a>
 
 <div align="center">
- <h3><b>Book store is a web app, it will be used to add new books with title and author ,any book can be updated or removed .Technologies HTML5, CSS3 ,REACT and Redux will be used for its full functionality</b></h3>
+ <h3><b>Cart item is  just a hands on exercise to practice use of redux toolkit</b></h3>
 
 </div>
 
@@ -36,10 +36,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Book Store] <a name="about-project"></a>
+# 📖 [cart Items] <a name="about-project"></a>
 
-**[Book Store]** Book store is a web app, it will be used to add new books with title and author ,any book can be updated or removed .Technologies HTML5, CSS3 ,REACT and Redux will be used for its full functionality.
-
+**[Cart item]** cart item is just a hands on exercise to practice how to include redux in react apps
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -73,7 +72,7 @@
 
 ## 🚀 Live Demo<a name="live-demo"></a>
 
-- N/A (will be coming after final approval)
+- N/A ()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -145,9 +144,6 @@ You can deploy this project using:
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
--  **[Fully functional Web App with menubar ,React Route used ]**
--  **[fully functional to add or remove books]**
 
 
 
